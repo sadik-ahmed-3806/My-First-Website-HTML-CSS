@@ -1,0 +1,26 @@
+.header-1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.para-1{
+    margin-top: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.323);
+    border: 2px black solid;
+}
+
+.order-1{
+   text-align: center;
+   list-style: circle;
+   list-style-position: inside;
+
+}
+
+.foot-1{
+    text-align: center;
+    margin-top: 80px;
+}
